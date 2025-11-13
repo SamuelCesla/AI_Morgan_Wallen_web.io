@@ -1,7 +1,7 @@
-AI_Morgan_Wallen_web.io
-#Morgan Wallen AI web
+
+**#Morgan Wallen AI web**
 AI jsem použil ChatGPT
-##Použite prompty
+**##Použite prompty**
 1. „vymysli mi nějaké témata na stránku“
 
 2. „vymysli mi nějaké téma o čem psát“
